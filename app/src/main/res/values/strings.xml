@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VisionSnap</string>
+    <string name="captured_image">Captured Image</string>
+    <string name="capture_image">Capture Image</string>
+</resources>
